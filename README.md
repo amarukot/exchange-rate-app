@@ -12,9 +12,10 @@ Create an app using a Currency Exchange Rate API
 
 # Issues
 
-1. Right off the bat, starting development server `npm start` encountered error regarding `... \node_modules\colorette`
+1. Right off the bat, started the development server (`npm start`) and encountered error regarding something about `\node_modules\colorette`
 
    Solution: update Node  
-   `nvm install node`
+   `nvm install node`  
+    Node version is now v14.5.0
 
 2.
