@@ -2,9 +2,13 @@
 
 Create an app using a Currency Exchange Rate API
 
-# Tech
+# Tech / Libraries / Dependencies
 
 - built with React
+- installed `react-router-dom`
+  ```
+  npm install --save react-router-dom
+  ```
 
 # Issues
 
